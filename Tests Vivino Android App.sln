@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests Vivino Android App", "Tests Vivino Android App\Tests Vivino Android App.csproj", "{1491B61B-4F74-4E7E-9A11-CD602A2592A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1491B61B-4F74-4E7E-9A11-CD602A2592A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1491B61B-4F74-4E7E-9A11-CD602A2592A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1491B61B-4F74-4E7E-9A11-CD602A2592A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1491B61B-4F74-4E7E-9A11-CD602A2592A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0916AC2F-6E9A-4E25-9EE4-C84B7878EA26}
+	EndGlobalSection
+EndGlobal
